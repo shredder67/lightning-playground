@@ -1,0 +1,8 @@
+**/lightning_logs
+**/.vscode
+**/__pycache__
+**/*.zip
+**/*.gz
+**/*.csv
+data/
+
